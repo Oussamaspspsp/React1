@@ -1,0 +1,21 @@
+
+.body{
+    background-color: goldenrod;
+}
+
+.img{
+    display: grid;
+    justify-content: center;    
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    justify-content: center;    
+}
+
+.address{
+    display: grid;
+    justify-content: center;
+}
+
