@@ -4,7 +4,7 @@ import '../style.css';
 
 const FirstImg = () => (
     <div className='img'>
-      <img src={Img} alt="Profile Photo" />
+      {/* <img src={Img}/> */}
     </div>
   );
   
